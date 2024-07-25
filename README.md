@@ -1,18 +1,7 @@
-# Swisstronik Tesnet Techinal Task 1
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+## Jangan Malas Kalau pengen jepe
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-## Steps
-
-### 1. Clone Repository
+### 1. Clone Repository {gitpod only copy https://github......
 
 ```bash
 git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
@@ -22,7 +11,7 @@ git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
 cd hardhat-deploy-contract
 ```
 
-### 2. Install Dependency
+### 2. Install Dependency skip use gitpod
 
 ```bash
 npm install
@@ -30,14 +19,13 @@ npm install
 
 ### 3. Set .env File
 
-create .env file in root project
+create .env file in root project/buat file .env di root folder
 
 ```bash
 PRIVATE_KEY="your private key"
 ```
 
 ### 4. Create Smart Contract
-
 - Open contract folder
 - Create Hello_swtr.sol file
 - Copy this code and paste there
@@ -101,15 +89,4 @@ npm run get-message
 npm run set-message
 ```
 
-### 9. Finsihed
-
-- Open the deployed-adddress.ts (location in utils folder)
-- Copy the address and paste the address in testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
+### 9. Done
