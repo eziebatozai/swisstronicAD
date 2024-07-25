@@ -4,7 +4,7 @@
 ### 1. Clone Repository {gitpod only copy https://github......
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/eziebatozai/swisstronicAD.git
 ```
 
 ```
